@@ -1,0 +1,17 @@
+[
+{
+  "modid": "mycommands",
+  "name": "MY Commands Unofficial",
+  "description": "Unofficial Quality of Life fixes for MyCommands mod in 1.7.10.",
+  "version": "05",
+  "mcversion": "1.7.10",
+  "updateUrl": "",
+  "authors": [
+    "Lordwissend, Jtraudel"
+  ],
+  "credits": "Thanks to MCP and Forge Teams.",
+  "logoFile": "",
+  "screenshots": [
+  ]
+}
+]

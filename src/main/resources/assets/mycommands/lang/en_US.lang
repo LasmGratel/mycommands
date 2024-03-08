@@ -1,0 +1,9 @@
+mycommands.back.usage=/back [player]
+mycommands.back.description=Teleports you to your location prior to tp/spawn/warp.
+mycommands.back.ok=Returning to previous location.
+mycommands.delhome.usage=/delhome <name>
+mycommands.delhome.description=Deletes your home with the given name
+mycommands.delhome.ok=Home {0} has been removed.
+mycommands.home.invalid=Home {0} doesn't exist!
+mycommands.enabled=enabled
+mycommands.disabled=disabled
